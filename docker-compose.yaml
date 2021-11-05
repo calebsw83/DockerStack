@@ -23,8 +23,8 @@
 # ------------------------------------------------------------
 # 32400     - Plex Media Server           Media server
 # 8096      - JellyFin                    Media server
-# 8056      - jfa-go                      JellyFin managent tool
-# 8000      - DizQtv                      Simulateds HDHomeRun device, but reads from selected Plex content
+# 8056      - jfa-go                      JellyFin management tool
+# 8000      - DizQuetv                    Simulateds HDHomeRun device, but reads from selected Plex content
 # 2001      - MovieMatch                  Allows user matching of movies to watch (think Tinder for movies)
 # 34400     - Xteve                       Allows multiple TV guides to be consolidated into one 
 # 8083      - Calibre-web                 E-book browsing and viewing
@@ -32,7 +32,7 @@
 #
 # Photo/Video Management
 # ------------------------------------------------------------
-# 880       - Pwigo                       Self-hosted image manager
+# 880       - Piwigo                      Self-hosted image manager
 # 90        - Lychee                      Photo manager
 # 8282      - Photoshow                   Photo manager
 # 4343      - Chevereto                   Stock image manager
